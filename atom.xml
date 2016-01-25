@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://fancyfsz.github.io/atom.xml" rel="self"/>
   <link href="http://fancyfsz.github.io/"/>
-  <updated>2016-01-25T18:01:13+08:00</updated>
+  <updated>2016-01-25T18:17:01+08:00</updated>
   <id>http://fancyfsz.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby环境搭建for Mac]]></title>
+    <link href="http://fancyfsz.github.io/blog/2016/01/25/rubyhuan-jing-da-jian-for-mac/"/>
+    <updated>2016-01-25T18:15:39+08:00</updated>
+    <id>http://fancyfsz.github.io/blog/2016/01/25/rubyhuan-jing-da-jian-for-mac</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
